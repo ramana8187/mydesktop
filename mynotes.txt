@@ -1,0 +1,26 @@
+jenkins EC2 CI/CD pipeline:
+==============================
+
+code base path on ec2:-
+/var/lib/jacoco/jacoco-maven-unittestv2
+
+==============================
+code base github path:-
+
+
+==============================
+maven path:-
+/usr/local/maven/conf/settings.xml
+
+==============================
+nexus path & port:-
+
+nexus - 8090
+/downloads/nexus-3.12.0-01/bin
+
+==============================
+jira path:-
+
+/opt/atlassian/jira/bin
+
+
