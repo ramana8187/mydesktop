@@ -1,26 +1,20 @@
-jenkins EC2 CI/CD pipeline:
-==============================
-
-code base path on ec2:-
-/var/lib/jacoco/jacoco-maven-unittestv2
-
-==============================
-code base github path:-
-
-
-==============================
-maven path:-
-/usr/local/maven/conf/settings.xml
-
-==============================
-nexus path & port:-
-
-nexus - 8090
-/downloads/nexus-3.12.0-01/bin
-
-==============================
-jira path:-
-
-/opt/atlassian/jira/bin
-
-
+tickets to kadapa	40
+tickets to busstop	30
+tickets to bangalore	480
+ola cab	120
+water	30
+biryani	190
+jamkaya	60
+banana, palli	90
+mirchi, tamoto	22
+tiffin 	70
+milk, rice, curd, leaf	208
+milk	20
+Balaji meruva	275
+chair, dabba	225
+petrol	200
+cash	550
+sweet shop	150
+detol, surf, eggs	387
+fredze	100
+hundi	113
